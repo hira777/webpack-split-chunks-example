@@ -1,0 +1,15 @@
+{
+  "name": "webpack-split-chunks-example",
+  "version": "1.0.0",
+  "description": "webpack 4 optimization.splitChunks quick start",
+  "author": "soraflat",
+  "devDependencies": {
+    "webpack": "^4.1.1",
+    "webpack-cli": "^2.0.11"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "velocity-animate": "^1.5.0"
+  },
+  "license": "MIT"
+}
