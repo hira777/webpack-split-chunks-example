@@ -1,9 +1,9 @@
 # webpack-split-chunks-example
-解説記事はこちらをご覧ください。
+To learn more about `optimization.splitChunks`, take a look at the following article (Japanese only).
 
 [webpack 4のoptimization.splitChunksの使い方、使い所](https://qiita.com/soarflat/items/1b5aa7163c087a91877d)
 
-### インストール
+### Installation
 
 ```
 npm install
@@ -12,10 +12,10 @@ npm install
 or
 
 ```
-yarn install
+yarn
 ```
 
-### バンドルされたファイルの出力
+### Create bundles
 
 ```
 webpack --mode development
